@@ -1,6 +1,6 @@
 # RECIPES-WEBSITE
 
-Project Summary
+Project Summary:
 
 This project is part of The Odin Project Foundations course and focuses on building a simple recipe website. The goal is to practice creating multiple web pages, linking them together, and displaying information in a clean, structured format. Each page contains a recipe with ingredients, steps, and images. This project helped me get comfortable with writing semantic HTML and organizing content for the web.
 
