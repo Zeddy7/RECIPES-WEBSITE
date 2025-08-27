@@ -7,8 +7,8 @@ body {
 }
 
 img {
-    height: 765px;
-    width: auto;
+    height: 750px;
+    width: 230px;
     flex-shrink: 0;
 }
 
@@ -28,7 +28,7 @@ img {
 
 .header {
     border-radius: 8px;
-    margin: 20px auto 40px;
+    margin: 20px auto;
     padding: 50px 100px 100px 100px;
     width: 50%;
     background-image: url("https://t3.ftcdn.net/jpg/02/52/12/40/360_F_252124067_aCtp9ZD934RboKmjJzkXiwYDL7XkNjpn.jpg");
@@ -51,12 +51,9 @@ p {
 
 .links {
     display: flex;
-    /* justify-content: space-between; */
     align-items: center;
     gap: 100px;
-    /* margin: 50px auto; */
     padding: 50px 50px 0 10px;
-    /* border: 1px solid red; */
 }
 
 li {
